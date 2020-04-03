@@ -1,0 +1,9 @@
+
+.navigation{position: fixed; right: 0; padding: 25; width: 5%; background-color: green; height: 45%; transform:translateX(100%);
+    -webkit-transform:translateY(100%);}
+.navigation ul{list-style: none;}
+.navigation ul li{margin: 15px 10px 10px;}
+.navigation ul li a{color:white; text-transform: uppercase;}
+
+.btn-navigation{position: absolute; right: 45px; top: 45px; cursor: pointer;}
+.btn-navigation .barre{width: 45px; height: 7px; background: white; z-index: 10; margin-top: 5px;}
