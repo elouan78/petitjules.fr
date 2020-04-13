@@ -9,8 +9,9 @@ header nav ul li, header h1 {margin: 20px;}
 .div{height: 150}
 
 /*CENTRAGE*/
-.ct-verticale{justify-content: center;}
-.ct-horizontal{align-items: center;}
+.ct-horizontale{justify-content: center;}
+.ct-verticale{align-items: center;}
+.ct-verticale-bw{justify-content: space-between;}
 
 /*ITEMS*/
 .desk1{width: 100%}
@@ -19,7 +20,7 @@ header nav ul li, header h1 {margin: 20px;}
 
 .desk11{height: 100%;}
 
-.desk10{width:100%; height: 500px; margin-left: 8%; margin-right: 8%;}
+.desk10{width:100%; height: 850px; margin-left: 8%; margin-right: 8%;}
 
 /*COLORS*/
 .bg-black{background-color: black}
@@ -34,6 +35,7 @@ header nav ul li, header h1 {margin: 20px;}
 .bg-orange{background-color: orange}
 .bg-couleur-officiel{background-color: #ff3131;}
 .bg-gray{background-color: #cdcbcb;}
+.bg-white{color:white;}
 
 /*MEDIA*/
 /*LG*/
@@ -50,3 +52,8 @@ header nav ul li, header h1 {margin: 20px;}
     .desk4{width: 100%}
 }
 
+/*LOGO*/
+.logo{margin-left: 45px;}
+
+/* PADDING */
+.padding{padding:15px;}
